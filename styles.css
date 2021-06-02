@@ -1,0 +1,55 @@
+body
+{
+background-image: url(maxresdefault.jpg);
+background-size: contain;
+background-repeat: space;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.login-box
+{
+    max-width: 700px;
+    max-height: 700px;
+    align-content: center;
+    text-align: center;
+    float: none;
+    margin: 180px auto;
+    color: white;
+   
+}
+
+.small{
+    text-align: inherit;
+    color: white;
+}
+
+.small1{
+    text-align: inherit;
+    color: white;
+}
+
+.login-left{
+    opacity: 0.9;
+    background-color: darkturquoise;
+    padding: 30px;
+
+    
+}
+
+.login-right{
+    opacity: 0.9;
+    padding: 30px;
+    background-color:darkcyan;
+    
+    
+}
+
+.home{
+    background-color: darkturquoise;
+    padding: 30px;
+    text-align: inherit;
+    color: whitesmoke;
+
+}
+
